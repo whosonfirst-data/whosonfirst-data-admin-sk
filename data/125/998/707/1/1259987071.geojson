@@ -90,7 +90,7 @@
         "wk:page":"Koce%C4%BEovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"d5c3f492f68053a68ff82229cf1cef32",
+    "wof:geomhash":"1851ddf7a40caaf87cc837abc3980fec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.34377000000001,
     48.70976
 ],
-  "geometry": {"coordinates":[20.34377000000001,48.70976],"type":"Point"}
+  "geometry": {"coordinates":[20.34377,48.70976],"type":"Point"}
 }

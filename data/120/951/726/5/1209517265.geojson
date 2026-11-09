@@ -90,7 +90,7 @@
         "wk:page":"Ladmovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a0cf9da8d06ca947eebc8806cefd191d",
+    "wof:geomhash":"8c85764a571d026e1331eeae72414e06",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -113,5 +113,5 @@
     21.78052000000001,
     48.41369
 ],
-  "geometry": {"coordinates":[21.78052000000001,48.41369],"type":"Point"}
+  "geometry": {"coordinates":[21.78052,48.41369],"type":"Point"}
 }

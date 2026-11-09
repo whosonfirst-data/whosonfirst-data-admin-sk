@@ -87,7 +87,7 @@
         "wk:page":"Zacharovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9f03af0a4f906e179ba3b4536fcbd469",
+    "wof:geomhash":"5751356280294d35607cda575d797e16",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -110,5 +110,5 @@
     20.05449,
     48.40499000000001
 ],
-  "geometry": {"coordinates":[20.05449,48.40499000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05449,48.40499],"type":"Point"}
 }

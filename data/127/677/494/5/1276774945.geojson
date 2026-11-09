@@ -90,7 +90,7 @@
         "wk:page":"Hodkovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"4c1bb9f8cc2076df56f365061721171c",
+    "wof:geomhash":"d9f50118e819d799055c1e70bc049b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.10011,
     48.67919000000001
 ],
-  "geometry": {"coordinates":[21.10011,48.67919000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.10011,48.67919],"type":"Point"}
 }

@@ -93,7 +93,7 @@
         "wk:page":"Milpo%C5%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"783470b5e4095ea94a4a6763d28c0938",
+    "wof:geomhash":"1616ce12c416109d361ba43afd0fd6f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.00498,
     49.18024000000001
 ],
-  "geometry": {"coordinates":[21.00498,49.18024000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.00498,49.18024],"type":"Point"}
 }

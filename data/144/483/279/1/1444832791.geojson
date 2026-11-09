@@ -40,7 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"SK",
-    "wof:geomhash":"0aaa84f6ecf5b422d4bfacea13419522",
+    "wof:geomhash":"3ef58cbcdd61be7fb1792b5e1377fb47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     17.1985365857255,
     48.1398285890653
 ],
-  "geometry": {"coordinates":[17.1985365857255,48.1398285890653],"type":"Point"}
+  "geometry": {"coordinates":[17.198537,48.139829],"type":"Point"}
 }

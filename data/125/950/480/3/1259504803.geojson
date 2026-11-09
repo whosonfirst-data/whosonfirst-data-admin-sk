@@ -93,7 +93,7 @@
         "wk:page":"Bohe%C4%BEov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"ee389e88ce472775f00b89228d1eb256",
+    "wof:geomhash":"e5ddf8222ca430bb958c0cb981bb3cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     17.69233999999999,
     47.91862
 ],
-  "geometry": {"coordinates":[17.69233999999999,47.91862],"type":"Point"}
+  "geometry": {"coordinates":[17.69234,47.91862],"type":"Point"}
 }

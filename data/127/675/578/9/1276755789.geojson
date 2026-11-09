@@ -87,7 +87,7 @@
         "wk:page":"%C5%A0terusy"
     },
     "wof:country":"SK",
-    "wof:geomhash":"1136010b045f7f11557ee3bd8b3faa99",
+    "wof:geomhash":"e2f305fb715e29634b04f71b4e6f335d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.68012000000001,
     48.60121
 ],
-  "geometry": {"coordinates":[17.68012000000001,48.60121],"type":"Point"}
+  "geometry": {"coordinates":[17.68012,48.60121],"type":"Point"}
 }

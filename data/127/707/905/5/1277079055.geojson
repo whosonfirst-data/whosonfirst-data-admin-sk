@@ -100,7 +100,7 @@
         "wk:page":"Vy%C5%A1n%C3%A1_Ol%C5%A1ava"
     },
     "wof:country":"SK",
-    "wof:geomhash":"fd9eeb338a99ec0a05c139d3dfd6db96",
+    "wof:geomhash":"10b0e9c2c01576b5243290da1d285639",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,5 +126,5 @@
     21.60193,
     49.15884000000001
 ],
-  "geometry": {"coordinates":[21.60193,49.15884000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60193,49.15884],"type":"Point"}
 }

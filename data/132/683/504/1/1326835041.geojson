@@ -93,7 +93,7 @@
         "wk:page":"Harakovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"21d37c920dd1ba1f2d45c865b601a7f9",
+    "wof:geomhash":"6259ac30242c693177b344bf3f3f3eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     20.84677000000001,
     48.9978
 ],
-  "geometry": {"coordinates":[20.84677000000001,48.9978],"type":"Point"}
+  "geometry": {"coordinates":[20.84677,48.9978],"type":"Point"}
 }

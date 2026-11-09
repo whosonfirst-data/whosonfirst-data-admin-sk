@@ -90,7 +90,7 @@
         "wk:page":"Pstrin%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"356221332b237d61e8182f4e11daa4ae",
+    "wof:geomhash":"949b7bf19afd8c3a9516f2eabf734ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.74713,
     49.30994000000001
 ],
-  "geometry": {"coordinates":[21.74713,49.30994000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.74713,49.30994],"type":"Point"}
 }

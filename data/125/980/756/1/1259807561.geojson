@@ -90,7 +90,7 @@
         "wk:page":"L%C3%BAka"
     },
     "wof:country":"SK",
-    "wof:geomhash":"d82ad5891c3bf9ef9d5021131c61c7ea",
+    "wof:geomhash":"882334da632117e205a6a1837277a37a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     17.88022999999999,
     48.65727
 ],
-  "geometry": {"coordinates":[17.88022999999999,48.65727],"type":"Point"}
+  "geometry": {"coordinates":[17.88023,48.65727],"type":"Point"}
 }

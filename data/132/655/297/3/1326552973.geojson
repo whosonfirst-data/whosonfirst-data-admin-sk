@@ -93,7 +93,7 @@
         "wk:page":"Jaku%C5%A1ovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"0747e65f0abef5cbd0383650bcca5313",
+    "wof:geomhash":"460302a6e4304ca6babeaf4204578e05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.74982,
     49.15799000000001
 ],
-  "geometry": {"coordinates":[21.74982,49.15799000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.74982,49.15799],"type":"Point"}
 }

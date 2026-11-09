@@ -90,7 +90,7 @@
         "wk:page":"Po%C4%8D%C3%BAvadlo"
     },
     "wof:country":"SK",
-    "wof:geomhash":"35ba8c9c5f64b523453e407dcdf8b16e",
+    "wof:geomhash":"2f625e560cce0370b5dfb5a43f58b7ac",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -113,5 +113,5 @@
     18.83282,
     48.36600000000001
 ],
-  "geometry": {"coordinates":[18.83282,48.36600000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.83282,48.366],"type":"Point"}
 }

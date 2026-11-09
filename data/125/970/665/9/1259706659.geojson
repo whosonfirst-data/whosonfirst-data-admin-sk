@@ -90,7 +90,7 @@
         "wk:page":"Valentovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"4897d5970a03f387b0d2d7ffa4f487b0",
+    "wof:geomhash":"795a15770847e2d4edc142adaf8aac0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.95395,
     49.17834000000001
 ],
-  "geometry": {"coordinates":[21.95395,49.17834000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.95395,49.17834],"type":"Point"}
 }

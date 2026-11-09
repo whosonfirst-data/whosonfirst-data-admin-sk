@@ -87,7 +87,7 @@
         "wk:page":"Skere%C5%A1ovo"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a8f935c71d88391c7b6202cfec64d876",
+    "wof:geomhash":"50d8e13f8275545387f2ab027c7733c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     20.20173,
     48.50409000000001
 ],
-  "geometry": {"coordinates":[20.20173,48.50409000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.20173,48.50409],"type":"Point"}
 }

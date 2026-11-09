@@ -90,7 +90,7 @@
         "wk:page":"Ardanovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"e7e2c58f4b766e3318cf4bc8960ad6bf",
+    "wof:geomhash":"db18675e9943438e8c602caf84f68e29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     17.90687999999999,
     48.53728
 ],
-  "geometry": {"coordinates":[17.90687999999999,48.53728],"type":"Point"}
+  "geometry": {"coordinates":[17.90688,48.53728],"type":"Point"}
 }

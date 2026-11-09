@@ -99,7 +99,7 @@
         "wk:page":"Fulianka"
     },
     "wof:country":"SK",
-    "wof:geomhash":"1f2b3c99b9f10d32870de7a19fe42433",
+    "wof:geomhash":"712b2645056065ce5b5e62035301fe46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,5 +125,5 @@
     21.33146,
     49.06399999999999
 ],
-  "geometry": {"coordinates":[21.33146,49.06399999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.33146,49.064],"type":"Point"}
 }

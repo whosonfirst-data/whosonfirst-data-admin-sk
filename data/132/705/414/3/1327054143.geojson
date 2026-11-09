@@ -91,7 +91,7 @@
         "wk:page":"Horn%C3%BD_Pial"
     },
     "wof:country":"SK",
-    "wof:geomhash":"181e0977588807230eca7e13d61c8072",
+    "wof:geomhash":"990c5e85d746959dfbd3e7370bd8465a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,5 +117,5 @@
     18.45039,
     48.15544000000001
 ],
-  "geometry": {"coordinates":[18.45039,48.15544000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.45039,48.15544],"type":"Point"}
 }

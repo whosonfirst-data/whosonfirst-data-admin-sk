@@ -87,7 +87,7 @@
         "wk:page":"%C4%8Cab"
     },
     "wof:country":"SK",
-    "wof:geomhash":"634fcbecb0469c466de6ff0d34c9b8e9",
+    "wof:geomhash":"1a890543f8d1764129937e5fb0213064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.98831000000001,
     48.40854
 ],
-  "geometry": {"coordinates":[17.98831000000001,48.40854],"type":"Point"}
+  "geometry": {"coordinates":[17.98831,48.40854],"type":"Point"}
 }

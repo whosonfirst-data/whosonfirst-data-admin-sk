@@ -90,7 +90,7 @@
         "wk:page":"Kvakovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"23e57c3231cbbae3a8b1cd9ee2af4ae3",
+    "wof:geomhash":"bb00a978b3a34af05ab7ef952bd95abf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.67072000000001,
     48.98848
 ],
-  "geometry": {"coordinates":[21.67072000000001,48.98848],"type":"Point"}
+  "geometry": {"coordinates":[21.67072,48.98848],"type":"Point"}
 }

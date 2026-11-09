@@ -93,7 +93,7 @@
         "wk:page":"%C4%8Ci%C4%8Darovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"62a276ab35fa8101ea700fd896e5e276",
+    "wof:geomhash":"259ae94530e02ade75cb02f5a7a4dff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     22.02718,
     48.54004000000001
 ],
-  "geometry": {"coordinates":[22.02718,48.54004000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.02718,48.54004],"type":"Point"}
 }

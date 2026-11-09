@@ -84,7 +84,7 @@
         "wk:page":"Kola%C4%8Dno"
     },
     "wof:country":"SK",
-    "wof:geomhash":"b1b91a46e676b52aa9c80272a9f5aa05",
+    "wof:geomhash":"28fd060fe96a561b5610e6a05766ba9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.42644,
     48.59249000000001
 ],
-  "geometry": {"coordinates":[18.42644,48.59249000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.42644,48.59249],"type":"Point"}
 }

@@ -90,7 +90,7 @@
         "wk:page":"Brodzany"
     },
     "wof:country":"SK",
-    "wof:geomhash":"80aed5d5da27139fb62e8b95280238e5",
+    "wof:geomhash":"c7c47e5169ff338aa44866dad2efec0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.34537000000001,
     48.60828
 ],
-  "geometry": {"coordinates":[18.34537000000001,48.60828],"type":"Point"}
+  "geometry": {"coordinates":[18.34537,48.60828],"type":"Point"}
 }

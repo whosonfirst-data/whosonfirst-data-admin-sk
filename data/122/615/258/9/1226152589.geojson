@@ -87,7 +87,7 @@
         "wk:page":"Dr%C3%A1%C5%BEovce_%28Bansk%C3%A1_Bystrica%29"
     },
     "wof:country":"SK",
-    "wof:geomhash":"3d2fec453121d3f97030f0c8fa766465",
+    "wof:geomhash":"ccf57fa6b863d234e60b10a6cd697e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.90717,
     48.25324000000001
 ],
-  "geometry": {"coordinates":[18.90717,48.25324000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90717,48.25324],"type":"Point"}
 }

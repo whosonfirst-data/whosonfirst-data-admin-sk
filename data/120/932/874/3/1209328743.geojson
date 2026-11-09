@@ -91,7 +91,7 @@
         "wk:page":"Gemersk%C3%A9_Michalovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a4b997810fc46bee73e05daf2b003d79",
+    "wof:geomhash":"f3656750e3e9ea259e6dc71f81758040",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -114,5 +114,5 @@
     20.21192000000001,
     48.43766
 ],
-  "geometry": {"coordinates":[20.21192000000001,48.43766],"type":"Point"}
+  "geometry": {"coordinates":[20.21192,48.43766],"type":"Point"}
 }

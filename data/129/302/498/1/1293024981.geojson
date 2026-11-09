@@ -87,7 +87,7 @@
         "wk:page":"Dlh%C3%A1_nad_V%C3%A1hom"
     },
     "wof:country":"SK",
-    "wof:geomhash":"df1f5980462041bde96602e879babd36",
+    "wof:geomhash":"5a71317a0c46bb80a0995911c49ac140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.86432000000001,
     48.17186
 ],
-  "geometry": {"coordinates":[17.86432000000001,48.17186],"type":"Point"}
+  "geometry": {"coordinates":[17.86432,48.17186],"type":"Point"}
 }

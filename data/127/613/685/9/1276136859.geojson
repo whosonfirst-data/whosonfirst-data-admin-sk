@@ -87,7 +87,7 @@
         "wk:page":"Ml%C3%A1dzovo"
     },
     "wof:country":"SK",
-    "wof:geomhash":"288e213ac7aac15758f8e1d94d10a507",
+    "wof:geomhash":"b24009285d92a22b87d81476b8400767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     19.70395,
     48.43819000000001
 ],
-  "geometry": {"coordinates":[19.70395,48.43819000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70395,48.43819],"type":"Point"}
 }

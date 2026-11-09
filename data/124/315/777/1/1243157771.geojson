@@ -51,7 +51,7 @@
         "wk:page":"Hrabov%C3%A9_%28Slovakia%29"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8872f07df8b1bc9196b1ef78b4282fa2",
+    "wof:geomhash":"64c6d57aa4bf3a977df808630b1052b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.56552000000001,
     49.20481
 ],
-  "geometry": {"coordinates":[18.56552000000001,49.20481],"type":"Point"}
+  "geometry": {"coordinates":[18.56552,49.20481],"type":"Point"}
 }

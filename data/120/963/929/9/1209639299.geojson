@@ -87,7 +87,7 @@
         "wk:page":"Neverice"
     },
     "wof:country":"SK",
-    "wof:geomhash":"407b2da386cb9b2c10f514fc6099b6f1",
+    "wof:geomhash":"807eb1d0a166ac2d1f0b2fba13a3345a",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -110,5 +110,5 @@
     18.27458,
     48.36662000000001
 ],
-  "geometry": {"coordinates":[18.27458,48.36662000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.27458,48.36662],"type":"Point"}
 }

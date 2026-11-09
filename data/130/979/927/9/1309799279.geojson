@@ -88,7 +88,7 @@
         "wk:page":"Visolaje"
     },
     "wof:country":"SK",
-    "wof:geomhash":"6e2ae811bff0671fead35582248ecfd9",
+    "wof:geomhash":"d7ce4034a09ae4a16c04cbb91b0e89ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,5 +114,5 @@
     18.36273,
     49.06744000000001
 ],
-  "geometry": {"coordinates":[18.36273,49.06744000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36273,49.06744],"type":"Point"}
 }

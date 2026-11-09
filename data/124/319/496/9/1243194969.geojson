@@ -90,7 +90,7 @@
         "wk:page":"Ni%C5%BEn%C3%A1_Sitnica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9ddbc347b0c8b97361e879e487fd3974",
+    "wof:geomhash":"1c341713dafd315a3ecce4acac359107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.79242,
     49.06724000000001
 ],
-  "geometry": {"coordinates":[21.79242,49.06724000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.79242,49.06724],"type":"Point"}
 }

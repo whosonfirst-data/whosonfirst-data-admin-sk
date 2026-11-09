@@ -90,7 +90,7 @@
         "wk:page":"Kr%C3%A1snovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5f55572b05396c15106e21bb20b44ac5",
+    "wof:geomhash":"7a3096595e26c2a0cb7277fcd6763e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.88415,
     48.72114000000001
 ],
-  "geometry": {"coordinates":[21.88415,48.72114000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88415,48.72114],"type":"Point"}
 }

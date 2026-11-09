@@ -90,7 +90,7 @@
         "wk:page":"Radvanovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"1d2fb9afdb7183cf7b20a9b48b84448f",
+    "wof:geomhash":"f63b0beae83cacb73a5d21a9a0077e16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.46083,
     49.04949000000001
 ],
-  "geometry": {"coordinates":[21.46083,49.04949000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46083,49.04949],"type":"Point"}
 }

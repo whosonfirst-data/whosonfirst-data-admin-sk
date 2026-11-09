@@ -90,7 +90,7 @@
         "wk:page":"%C4%8Cerven%C3%BD_Hr%C3%A1dok"
     },
     "wof:country":"SK",
-    "wof:geomhash":"ba189617481d0abf89db7170fb47aafe",
+    "wof:geomhash":"b1b9261d95a8f08bf8072fe1b0cab60c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.38675,
     48.30184000000001
 ],
-  "geometry": {"coordinates":[18.38675,48.30184000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.38675,48.30184],"type":"Point"}
 }

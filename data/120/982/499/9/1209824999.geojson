@@ -97,7 +97,7 @@
         "wk:page":"%C3%81belov%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"07831d54b5424159de3805f0ae3903bd",
+    "wof:geomhash":"d2e21543760787908012af46bb1a65e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,5 +123,5 @@
     19.43282,
     48.41157000000001
 ],
-  "geometry": {"coordinates":[19.43282,48.41157000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43282,48.41157],"type":"Point"}
 }

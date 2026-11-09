@@ -90,7 +90,7 @@
         "wk:page":"Lomn%C3%A1%2C_N%C3%A1mestovo_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5004c62c378fa31fa5097c6d7e0f77ac",
+    "wof:geomhash":"d1e4ac006f1a48fd86fa2f6423d664e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     19.3034,
     49.36049000000001
 ],
-  "geometry": {"coordinates":[19.3034,49.36049000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.3034,49.36049],"type":"Point"}
 }

@@ -90,7 +90,7 @@
         "wk:page":"Hos%C5%A5ovce%2C_Zlat%C3%A9_Moravce_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a99aedee7149e22669bb2efdc729fe8c",
+    "wof:geomhash":"472eb23819f5647a8062d491de1f81f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.35817,
     48.41764000000001
 ],
-  "geometry": {"coordinates":[18.35817,48.41764000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.35817,48.41764],"type":"Point"}
 }

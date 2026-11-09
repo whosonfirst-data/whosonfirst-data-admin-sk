@@ -93,7 +93,7 @@
         "wk:page":"Kosto%C4%BEany_pod_Tribe%C4%8Dom"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8f3a3cd3eb8a4284fc93e39a790da371",
+    "wof:geomhash":"629023ae99de9b6a8d1c08e106031665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     18.24262,
     48.41542000000001
 ],
-  "geometry": {"coordinates":[18.24262,48.41542000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.24262,48.41542],"type":"Point"}
 }

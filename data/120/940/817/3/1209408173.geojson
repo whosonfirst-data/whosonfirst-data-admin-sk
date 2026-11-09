@@ -84,7 +84,7 @@
         "wk:page":"Borcov%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"13eb8434c4266de3d2639e710cd80554",
+    "wof:geomhash":"b8af0d469bf479c4a9f91508235ccc26",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -107,5 +107,5 @@
     18.83927000000001,
     48.92878
 ],
-  "geometry": {"coordinates":[18.83927000000001,48.92878],"type":"Point"}
+  "geometry": {"coordinates":[18.83927,48.92878],"type":"Point"}
 }

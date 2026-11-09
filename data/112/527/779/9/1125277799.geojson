@@ -56,7 +56,7 @@
     },
     "wof:country":"SK",
     "wof:created":1497042388,
-    "wof:geomhash":"831c261ec6450bdc181f9f0464eb6a2e",
+    "wof:geomhash":"08dc98db121bd38a47f3fa8e45a5efc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.7703075,
     47.858072
 ],
-  "geometry": {"coordinates":[17.7703075,47.858072],"type":"Point"}
+  "geometry": {"coordinates":[17.770308,47.858072],"type":"Point"}
 }

@@ -123,7 +123,7 @@
         "wk:page":"Kremnick%C3%A9_Bane"
     },
     "wof:country":"SK",
-    "wof:geomhash":"47357bf9d950ccc84df071cc96fd5529",
+    "wof:geomhash":"5ca83e71947e16e860f9a7933693edf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,5 +151,5 @@
     18.90678,
     48.73627000000001
 ],
-  "geometry": {"coordinates":[18.90678,48.73627000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90678,48.73627],"type":"Point"}
 }

@@ -93,7 +93,7 @@
         "wk:page":"Ladzany"
     },
     "wof:country":"SK",
-    "wof:geomhash":"fa39829852c6eed22e953f28602339df",
+    "wof:geomhash":"7ef4213e0dee33685b9b245559d02e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     18.90489,
     48.26759000000001
 ],
-  "geometry": {"coordinates":[18.90489,48.26759000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90489,48.26759],"type":"Point"}
 }

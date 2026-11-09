@@ -84,7 +84,7 @@
         "wk:page":"%C5%A0algovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"c9efcefa4a71002ec5748c04eaad7d43",
+    "wof:geomhash":"0e3834407090e1246de55104d814a5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.89937999999999,
     48.52627
 ],
-  "geometry": {"coordinates":[17.89937999999999,48.52627],"type":"Point"}
+  "geometry": {"coordinates":[17.89938,48.52627],"type":"Point"}
 }

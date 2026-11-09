@@ -90,7 +90,7 @@
         "wk:page":"Piskorovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"6ab7e3174dfc10e757f58a703fd1f2cc",
+    "wof:geomhash":"87483b6c70b536985e52d10e1279e4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.7348,
     49.10599000000001
 ],
-  "geometry": {"coordinates":[21.7348,49.10599000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.7348,49.10599],"type":"Point"}
 }

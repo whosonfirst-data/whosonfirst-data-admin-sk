@@ -90,7 +90,7 @@
         "wk:page":"M%C3%BDtne_Ludany"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8a81cbe4826da59e2d979bd10072cde6",
+    "wof:geomhash":"a5a048477f9da39a7f1db49d8c8b9678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.66432,
     48.16392000000001
 ],
-  "geometry": {"coordinates":[18.66432,48.16392000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.66432,48.16392],"type":"Point"}
 }

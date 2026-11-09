@@ -93,7 +93,7 @@
         "wk:page":"Poloma"
     },
     "wof:country":"SK",
-    "wof:geomhash":"987ad61e559b55fe18f6b7e489396787",
+    "wof:geomhash":"85b8e40f3f2307211b3b9263797694a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     20.82857000000001,
     49.16777
 ],
-  "geometry": {"coordinates":[20.82857000000001,49.16777],"type":"Point"}
+  "geometry": {"coordinates":[20.82857,49.16777],"type":"Point"}
 }

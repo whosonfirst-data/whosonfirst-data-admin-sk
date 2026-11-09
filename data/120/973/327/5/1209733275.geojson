@@ -99,7 +99,7 @@
         "wk:page":"D%C3%BAbravica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5b728fcdcf86ad4984749128cbf3a602",
+    "wof:geomhash":"f2b09e04f3ec0d9aba105df1a9cb8f25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,5 +125,5 @@
     19.27292000000001,
     48.67964
 ],
-  "geometry": {"coordinates":[19.27292000000001,48.67964],"type":"Point"}
+  "geometry": {"coordinates":[19.27292,48.67964],"type":"Point"}
 }

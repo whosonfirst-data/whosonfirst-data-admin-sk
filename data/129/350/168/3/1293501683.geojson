@@ -90,7 +90,7 @@
         "wk:page":"Gortva"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5c26aef6ebdd6b0903ece88ad71ca416",
+    "wof:geomhash":"a27ff134b253b7b7ddf9d2b12702e238",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.02496,
     48.29454000000001
 ],
-  "geometry": {"coordinates":[20.02496,48.29454000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.02496,48.29454],"type":"Point"}
 }

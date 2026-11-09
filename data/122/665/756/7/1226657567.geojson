@@ -93,7 +93,7 @@
         "wk:page":"B%C3%B4rka"
     },
     "wof:country":"SK",
-    "wof:geomhash":"59dae13ea53cca0c154cc538718e8af2",
+    "wof:geomhash":"4e445a1a9e6491f0dead70b92fd1a028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     20.76447000000001,
     48.63241
 ],
-  "geometry": {"coordinates":[20.76447000000001,48.63241],"type":"Point"}
+  "geometry": {"coordinates":[20.76447,48.63241],"type":"Point"}
 }

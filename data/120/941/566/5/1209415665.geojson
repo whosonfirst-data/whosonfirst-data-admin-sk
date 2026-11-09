@@ -84,7 +84,7 @@
         "wk:page":"Hronsk%C3%A9_Kosihy"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8e9585da346f39daf874d9765a566554",
+    "wof:geomhash":"f8ff20db7a9ca6727b1ed14d8eb95c5a",
     "wof:hierarchy":[
         {
             "country_id":85633769,
@@ -107,5 +107,5 @@
     18.59527000000001,
     48.26577
 ],
-  "geometry": {"coordinates":[18.59527000000001,48.26577],"type":"Point"}
+  "geometry": {"coordinates":[18.59527,48.26577],"type":"Point"}
 }

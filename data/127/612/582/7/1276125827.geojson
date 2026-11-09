@@ -100,7 +100,7 @@
         "wk:page":"Ve%C4%BEk%C3%BD_Hore%C5%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9a9377e10a07f3f018aaf3d88eb3921d",
+    "wof:geomhash":"ffddddf81e7bb9ca8e82c818b6395fdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,5 +126,5 @@
     21.90898,
     48.38464000000001
 ],
-  "geometry": {"coordinates":[21.90898,48.38464000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90898,48.38464],"type":"Point"}
 }

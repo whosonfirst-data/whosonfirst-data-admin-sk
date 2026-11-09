@@ -93,7 +93,7 @@
         "wk:page":"Vislava"
     },
     "wof:country":"SK",
-    "wof:geomhash":"2b8dd9ebd74d4eb72fce0e76cc576099",
+    "wof:geomhash":"376b271bae7044677ecbc98d1f89c811",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.66012000000001,
     49.28154
 ],
-  "geometry": {"coordinates":[21.66012000000001,49.28154],"type":"Point"}
+  "geometry": {"coordinates":[21.66012,49.28154],"type":"Point"}
 }

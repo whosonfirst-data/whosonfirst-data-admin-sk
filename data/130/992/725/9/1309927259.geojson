@@ -84,7 +84,7 @@
         "wk:page":"Ostrov%2C_Pie%C5%A1%C5%A5any_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"60c4b9b2eef4e5481d23ea96e287d158",
+    "wof:geomhash":"f46f627df10fbd45c5d8d5acbd141772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.76862999999999,
     48.62725
 ],
-  "geometry": {"coordinates":[17.76862999999999,48.62725],"type":"Point"}
+  "geometry": {"coordinates":[17.76863,48.62725],"type":"Point"}
 }

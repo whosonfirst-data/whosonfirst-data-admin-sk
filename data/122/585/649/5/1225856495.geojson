@@ -96,7 +96,7 @@
         "wk:page":"Vysok%C3%A1_nad_Uhom"
     },
     "wof:country":"SK",
-    "wof:geomhash":"55caa8a2761173695f968029632c3e26",
+    "wof:geomhash":"7f7d38ffd9f0f013032a7f277eae8310",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     22.09133,
     48.62609000000001
 ],
-  "geometry": {"coordinates":[22.09133,48.62609000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.09133,48.62609],"type":"Point"}
 }

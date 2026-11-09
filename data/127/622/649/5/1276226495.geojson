@@ -93,7 +93,7 @@
         "wk:page":"Pichne"
     },
     "wof:country":"SK",
-    "wof:geomhash":"b728e553d26d2b3bdcdf7cd4df7fd43e",
+    "wof:geomhash":"13e19fc47f7f4fd94d52ec45fec67aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     22.1214,
     49.03769000000001
 ],
-  "geometry": {"coordinates":[22.1214,49.03769000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.1214,49.03769],"type":"Point"}
 }

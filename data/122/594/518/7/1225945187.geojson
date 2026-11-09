@@ -81,7 +81,7 @@
         "wk:page":"Z%C3%A1vada%2C_Topo%C4%BE%C4%8Dany_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"d2c5c55cd3e45799979150a3331cfcd8",
+    "wof:geomhash":"cdcc0d921511de99c73b67fa10fd22cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     18.08531,
     48.64129000000001
 ],
-  "geometry": {"coordinates":[18.08531,48.64129000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08531,48.64129],"type":"Point"}
 }

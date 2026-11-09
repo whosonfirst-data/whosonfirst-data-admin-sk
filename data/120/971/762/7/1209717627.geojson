@@ -87,7 +87,7 @@
         "wk:page":"Hru%C5%A1ov%2C_Ro%C5%BE%C5%88ava_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"38b213b72c5e0c692fc8109df08b652c",
+    "wof:geomhash":"8bbfd126dac209c512cc139e5d16010b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     20.63537,
     48.58244000000001
 ],
-  "geometry": {"coordinates":[20.63537,48.58244000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.63537,48.58244],"type":"Point"}
 }

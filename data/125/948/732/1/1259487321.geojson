@@ -90,7 +90,7 @@
         "wk:page":"Ve%C4%BEk%C3%A1_L%C3%BAka"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5f20c864dfbf132f2027cdddee3fd34b",
+    "wof:geomhash":"28f0074e1e84a76b1ebcce43a07f68f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     19.16979,
     48.62994000000001
 ],
-  "geometry": {"coordinates":[19.16979,48.62994000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.16979,48.62994],"type":"Point"}
 }

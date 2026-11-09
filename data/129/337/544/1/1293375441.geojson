@@ -90,7 +90,7 @@
         "wk:page":"Zby%C5%88ov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"7322b8160226c661047d75d64c487184",
+    "wof:geomhash":"62535df01eabdc7cfc26a4154fdc3516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.64867000000001,
     49.12081
 ],
-  "geometry": {"coordinates":[18.64867000000001,49.12081],"type":"Point"}
+  "geometry": {"coordinates":[18.64867,49.12081],"type":"Point"}
 }

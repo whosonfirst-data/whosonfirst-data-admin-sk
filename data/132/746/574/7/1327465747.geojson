@@ -93,7 +93,7 @@
         "wk:page":"Ni%C5%BEn%C3%BD_Kru%C4%8Dov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"388926ee137c0f96f7a4a23993c0dc7b",
+    "wof:geomhash":"049ce1fdf8fb473a8f5eb2b43800d698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.65303,
     48.91314000000001
 ],
-  "geometry": {"coordinates":[21.65303,48.91314000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.65303,48.91314],"type":"Point"}
 }

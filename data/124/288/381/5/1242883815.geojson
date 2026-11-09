@@ -87,7 +87,7 @@
         "wk:page":"Ple%C5%A1%2C_Slovakia"
     },
     "wof:country":"SK",
-    "wof:geomhash":"665536cf31406d032c50537e410d899d",
+    "wof:geomhash":"dcfae6fb8437ec776478c6098041ff95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     19.74937000000001,
     48.23147
 ],
-  "geometry": {"coordinates":[19.74937000000001,48.23147],"type":"Point"}
+  "geometry": {"coordinates":[19.74937,48.23147],"type":"Point"}
 }

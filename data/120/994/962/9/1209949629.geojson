@@ -90,7 +90,7 @@
         "wk:page":"Slavnica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"b117a9834b8aec66f3334c7cfd78c194",
+    "wof:geomhash":"6e8511c45c3a014b6e4b508f62b54d46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.17916,
     48.99874000000001
 ],
-  "geometry": {"coordinates":[18.17916,48.99874000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.17916,48.99874],"type":"Point"}
 }

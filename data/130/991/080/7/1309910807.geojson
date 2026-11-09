@@ -96,7 +96,7 @@
         "wk:page":"Mikov%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"50cc36a1c4eea22689dda640025dbe17",
+    "wof:geomhash":"027f70b46014ccb1e14b33aae966913d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     21.82141,
     49.29604000000001
 ],
-  "geometry": {"coordinates":[21.82141,49.29604000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.82141,49.29604],"type":"Point"}
 }

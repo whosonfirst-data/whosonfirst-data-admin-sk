@@ -84,7 +84,7 @@
         "wk:page":"M%C3%A1la%C5%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"7ec94e4a8e744a0648470fb7c2c59374",
+    "wof:geomhash":"27c3cb4261001694d017c10a6e30f580",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.52677000000001,
     48.05288
 ],
-  "geometry": {"coordinates":[18.52677000000001,48.05288],"type":"Point"}
+  "geometry": {"coordinates":[18.52677,48.05288],"type":"Point"}
 }

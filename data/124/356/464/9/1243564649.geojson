@@ -96,7 +96,7 @@
         "wk:page":"%C5%A0arbov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"fdb7f3727b5b17240552db15e4e19d04",
+    "wof:geomhash":"b0ecdcaade27ac81f821c1527ea8d759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     21.63038,
     49.42704000000001
 ],
-  "geometry": {"coordinates":[21.63038,49.42704000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63038,49.42704],"type":"Point"}
 }

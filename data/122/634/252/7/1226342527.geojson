@@ -87,7 +87,7 @@
         "wk:page":"Selec"
     },
     "wof:country":"SK",
-    "wof:geomhash":"cbc804f8ae86ff3ace28b5deca23e377",
+    "wof:geomhash":"8d24f496c44a4a41bba7529a63556c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.99082000000001,
     48.784
 ],
-  "geometry": {"coordinates":[17.99082000000001,48.784],"type":"Point"}
+  "geometry": {"coordinates":[17.99082,48.784],"type":"Point"}
 }

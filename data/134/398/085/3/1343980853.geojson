@@ -93,7 +93,7 @@
         "wk:page":"Stebn%C3%ADk"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9d394f08d13acec3e262e0db4ff7cb31",
+    "wof:geomhash":"86e81c3ddee15531a08caa8fdd92a86e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.26693,
     49.37974000000001
 ],
-  "geometry": {"coordinates":[21.26693,49.37974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.26693,49.37974],"type":"Point"}
 }

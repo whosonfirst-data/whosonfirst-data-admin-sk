@@ -87,7 +87,7 @@
         "wk:page":"Lipovec%2C_Martin_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"e0dd8bd31481e61a6240347e77e57005",
+    "wof:geomhash":"0e8c38cb77463861d51d2a794701963e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.92715,
     49.12889000000001
 ],
-  "geometry": {"coordinates":[18.92715,49.12889000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.92715,49.12889],"type":"Point"}
 }

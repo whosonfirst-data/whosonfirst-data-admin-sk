@@ -41,7 +41,7 @@
         "gn:id":3060741
     },
     "wof:country":"SK",
-    "wof:geomhash":"f21cf5d5d8021a40b94c6414c858c10c",
+    "wof:geomhash":"66a0b19e52ef4f8efb0e7e06d87856ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     17.63657000000001,
     48.72297
 ],
-  "geometry": {"coordinates":[17.63657000000001,48.72297],"type":"Point"}
+  "geometry": {"coordinates":[17.63657,48.72297],"type":"Point"}
 }

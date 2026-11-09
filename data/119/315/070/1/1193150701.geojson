@@ -90,7 +90,7 @@
         "wk:page":"Lenka%2C_Slovakia"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5606c0d039ad3446a575db1afb76efee",
+    "wof:geomhash":"e5c25108afde036d6fd3a7bc5ee9f15f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.34837000000001,
     48.3871
 ],
-  "geometry": {"coordinates":[20.34837000000001,48.3871],"type":"Point"}
+  "geometry": {"coordinates":[20.34837,48.3871],"type":"Point"}
 }

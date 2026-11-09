@@ -93,7 +93,7 @@
         "wk:page":"%C4%BDutov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"c67751fc09c041e13ac3569d1747e037",
+    "wof:geomhash":"8164d40d71f09ff91086d387d07c41ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     18.28116,
     48.77672000000001
 ],
-  "geometry": {"coordinates":[18.28116,48.77672000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.28116,48.77672],"type":"Point"}
 }

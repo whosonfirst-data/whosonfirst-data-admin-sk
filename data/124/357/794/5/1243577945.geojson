@@ -91,7 +91,7 @@
         "wk:page":"Horn%C3%A1_Marikov%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"1cbda6e33ed879a0cad61989dbee7978",
+    "wof:geomhash":"a206a49dd58ff544b7d1923f303c7c18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,5 +117,5 @@
     18.30917,
     49.24619000000001
 ],
-  "geometry": {"coordinates":[18.30917,49.24619000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.30917,49.24619],"type":"Point"}
 }

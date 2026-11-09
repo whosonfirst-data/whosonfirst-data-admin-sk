@@ -93,7 +93,7 @@
         "wk:page":"Hvozdnica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"4ea222f76d801b15fd5ad92a14f332f4",
+    "wof:geomhash":"6b73f2c74e4a985265fbdc4eced7a24d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     18.48942000000001,
     49.2104
 ],
-  "geometry": {"coordinates":[18.48942000000001,49.2104],"type":"Point"}
+  "geometry": {"coordinates":[18.48942,49.2104],"type":"Point"}
 }

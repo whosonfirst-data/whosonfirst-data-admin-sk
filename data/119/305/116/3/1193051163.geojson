@@ -87,7 +87,7 @@
         "wk:page":"%C5%BDemliare"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8aaadaeee340483a0b0e224f60eed219",
+    "wof:geomhash":"f8b2ee5a421bdf4940c97ee748638140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.60372000000001,
     48.14831
 ],
-  "geometry": {"coordinates":[18.60372000000001,48.14831],"type":"Point"}
+  "geometry": {"coordinates":[18.60372,48.14831],"type":"Point"}
 }

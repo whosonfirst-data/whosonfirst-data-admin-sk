@@ -91,7 +91,7 @@
         "wk:page":"Vy%C5%A1n%C3%A1_Kamenica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"d64bd7678f189fbe6c5a7f8d98fe997e",
+    "wof:geomhash":"fb3551fa2618153bdb8d9be668a2c896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,5 +117,5 @@
     21.48557000000001,
     48.77852
 ],
-  "geometry": {"coordinates":[21.48557000000001,48.77852],"type":"Point"}
+  "geometry": {"coordinates":[21.48557,48.77852],"type":"Point"}
 }

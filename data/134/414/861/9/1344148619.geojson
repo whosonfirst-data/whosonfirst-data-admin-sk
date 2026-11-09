@@ -93,7 +93,7 @@
         "wk:page":"Povoda"
     },
     "wof:country":"SK",
-    "wof:geomhash":"805fb73b2a9932563cd2a1832bca951b",
+    "wof:geomhash":"b079b1fde19129457e9c368346a7b17d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     17.63332999999999,
     47.96667
 ],
-  "geometry": {"coordinates":[17.63332999999999,47.96667],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,47.96667],"type":"Point"}
 }

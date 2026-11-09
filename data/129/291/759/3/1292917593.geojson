@@ -87,7 +87,7 @@
         "wk:page":"Hubovo"
     },
     "wof:country":"SK",
-    "wof:geomhash":"625ec4a7849d32d1fd2605180edfb9a5",
+    "wof:geomhash":"d36809dcef76e423ed4fa1c55c806632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     20.36882,
     48.39984000000001
 ],
-  "geometry": {"coordinates":[20.36882,48.39984000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.36882,48.39984],"type":"Point"}
 }

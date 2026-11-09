@@ -93,7 +93,7 @@
         "wk:page":"Bellova_Ves"
     },
     "wof:country":"SK",
-    "wof:geomhash":"5beb2e7d76669f48d81055d863a1bebe",
+    "wof:geomhash":"fe97ba3b69ddd86ae2655b6c922443a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     17.51305,
     48.09079000000001
 ],
-  "geometry": {"coordinates":[17.51305,48.09079000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.51305,48.09079],"type":"Point"}
 }

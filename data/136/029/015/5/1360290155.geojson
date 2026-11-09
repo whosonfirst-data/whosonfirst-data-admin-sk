@@ -90,7 +90,7 @@
         "wk:page":"Uzovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"62e09c6db6305684d4d8b14276bf2b1b",
+    "wof:geomhash":"00c488aeeec5da3982eb7335b960786d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.18067000000001,
     49.0942
 ],
-  "geometry": {"coordinates":[21.18067000000001,49.0942],"type":"Point"}
+  "geometry": {"coordinates":[21.18067,49.0942],"type":"Point"}
 }

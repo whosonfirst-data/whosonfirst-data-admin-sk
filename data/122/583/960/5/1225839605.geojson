@@ -94,7 +94,7 @@
         "wk:page":"Pust%C3%A9_Sady"
     },
     "wof:country":"SK",
-    "wof:geomhash":"35d44a29ed96c546282839373e6eb746",
+    "wof:geomhash":"cb552db774dd7e46f0193398e9f79a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,5 +120,5 @@
     17.82952000000001,
     48.31337
 ],
-  "geometry": {"coordinates":[17.82952000000001,48.31337],"type":"Point"}
+  "geometry": {"coordinates":[17.82952,48.31337],"type":"Point"}
 }

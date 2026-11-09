@@ -87,7 +87,7 @@
         "wk:page":"Doln%C3%BD_Lieskov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"b652616c101f2108702afc1addc862a9",
+    "wof:geomhash":"a7b98953bb76f9be0f02e6b383b5a0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.42147000000001,
     49.05178
 ],
-  "geometry": {"coordinates":[18.42147000000001,49.05178],"type":"Point"}
+  "geometry": {"coordinates":[18.42147,49.05178],"type":"Point"}
 }

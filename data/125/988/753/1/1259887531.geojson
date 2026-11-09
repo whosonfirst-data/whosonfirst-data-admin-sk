@@ -90,7 +90,7 @@
         "wk:page":"Ro%C5%A1t%C3%A1r"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9a119e4b3d617316196cec56f5edae75",
+    "wof:geomhash":"99cc398072549297150076ac8fedc81a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.35062000000001,
     48.69225
 ],
-  "geometry": {"coordinates":[20.35062000000001,48.69225],"type":"Point"}
+  "geometry": {"coordinates":[20.35062,48.69225],"type":"Point"}
 }

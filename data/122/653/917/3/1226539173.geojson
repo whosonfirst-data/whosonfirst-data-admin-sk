@@ -96,7 +96,7 @@
         "wk:page":"Buclovany"
     },
     "wof:country":"SK",
-    "wof:geomhash":"9c0b81a6e042e6bae51b9d8025aa109e",
+    "wof:geomhash":"6edb1d8d8d35182e401159d9d342e396",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     21.36517000000001,
     49.1553
 ],
-  "geometry": {"coordinates":[21.36517000000001,49.1553],"type":"Point"}
+  "geometry": {"coordinates":[21.36517,49.1553],"type":"Point"}
 }

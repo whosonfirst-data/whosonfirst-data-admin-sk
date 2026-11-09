@@ -90,7 +90,7 @@
         "wk:page":"Nandra%C5%BE"
     },
     "wof:country":"SK",
-    "wof:geomhash":"6c2f6c84b0fe0c7026f7a3a67d2add2a",
+    "wof:geomhash":"33eb09e1245d1047f90b03619c06df08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.18695,
     48.60769000000001
 ],
-  "geometry": {"coordinates":[20.18695,48.60769000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.18695,48.60769],"type":"Point"}
 }

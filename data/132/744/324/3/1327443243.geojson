@@ -90,7 +90,7 @@
         "wk:page":"Vy%C5%A1n%C3%A1_Rybnica"
     },
     "wof:country":"SK",
-    "wof:geomhash":"66f8f5f13777b11298f3a76817d3c644",
+    "wof:geomhash":"3f84acac0adced661233d78a6ede4d30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     22.17732,
     48.82214000000001
 ],
-  "geometry": {"coordinates":[22.17732,48.82214000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.17732,48.82214],"type":"Point"}
 }

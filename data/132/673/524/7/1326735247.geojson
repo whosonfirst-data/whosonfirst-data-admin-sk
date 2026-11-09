@@ -93,7 +93,7 @@
         "wk:page":"Hrabovec"
     },
     "wof:country":"SK",
-    "wof:geomhash":"239ddc1b565e2c909d318db975cdca59",
+    "wof:geomhash":"e008aa4fca1b710801e0b5fc8b40c6be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.37897,
     49.27229000000001
 ],
-  "geometry": {"coordinates":[21.37897,49.27229000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.37897,49.27229],"type":"Point"}
 }

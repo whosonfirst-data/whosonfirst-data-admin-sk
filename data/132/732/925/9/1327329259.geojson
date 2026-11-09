@@ -90,7 +90,7 @@
         "wk:page":"Budi%C5%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"c718d48e2a68b7dfc1bfc2c3c45dd3de",
+    "wof:geomhash":"669a8a86bc0fcb492feef5a3cb2bf3d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.75847000000001,
     48.8729
 ],
-  "geometry": {"coordinates":[18.75847000000001,48.8729],"type":"Point"}
+  "geometry": {"coordinates":[18.75847,48.8729],"type":"Point"}
 }

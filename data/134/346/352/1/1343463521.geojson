@@ -96,7 +96,7 @@
         "wk:page":"Belove%C5%BEa"
     },
     "wof:country":"SK",
-    "wof:geomhash":"359f74ae4bb30f503431a0e477d92ec0",
+    "wof:geomhash":"5a5d4f8fc492478b491134f6abd528fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     21.3683,
     49.29600000000001
 ],
-  "geometry": {"coordinates":[21.3683,49.29600000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.3683,49.296],"type":"Point"}
 }

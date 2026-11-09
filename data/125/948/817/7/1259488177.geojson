@@ -93,7 +93,7 @@
         "wk:page":"Mal%C3%A1_Doma%C5%A1a"
     },
     "wof:country":"SK",
-    "wof:geomhash":"b8606a60ea79cce569e672a246bffab9",
+    "wof:geomhash":"0d3a15e0ad8592a9b8528a199f48fc2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.71107,
     48.97107000000001
 ],
-  "geometry": {"coordinates":[21.71107,48.97107000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.71107,48.97107],"type":"Point"}
 }

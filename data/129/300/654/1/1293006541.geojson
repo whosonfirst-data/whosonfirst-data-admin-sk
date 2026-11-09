@@ -87,7 +87,7 @@
         "wk:page":"Bobot%2C_Tren%C4%8D%C3%ADn_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"f8aa5557bfd9a69b7f822fd0b5664477",
+    "wof:geomhash":"1ad4c90d28ee6f1670c270a0fc10791f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.19137000000001,
     48.80602
 ],
-  "geometry": {"coordinates":[18.19137000000001,48.80602],"type":"Point"}
+  "geometry": {"coordinates":[18.19137,48.80602],"type":"Point"}
 }

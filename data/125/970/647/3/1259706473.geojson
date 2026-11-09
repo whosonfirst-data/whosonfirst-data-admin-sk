@@ -90,7 +90,7 @@
         "wk:page":"Kva%C4%8Dany%2C_Pre%C5%A1ov_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"d1ca54708655645607734bdbf96ca84b",
+    "wof:geomhash":"3bbc6f3a37be4bd80a0f6a250a31cc40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.08654,
     48.94517000000001
 ],
-  "geometry": {"coordinates":[21.08654,48.94517000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.08654,48.94517],"type":"Point"}
 }

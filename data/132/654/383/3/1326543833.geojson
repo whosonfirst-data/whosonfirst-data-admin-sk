@@ -90,7 +90,7 @@
         "wk:page":"Horn%C3%A1_Ves%2C_%C5%BDiar_nad_Hronom_District"
     },
     "wof:country":"SK",
-    "wof:geomhash":"ec8f19ee4e823121ff83776c903408a0",
+    "wof:geomhash":"15c8262fca18eb3684960f27541eddf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     18.91012000000001,
     48.67674
 ],
-  "geometry": {"coordinates":[18.91012000000001,48.67674],"type":"Point"}
+  "geometry": {"coordinates":[18.91012,48.67674],"type":"Point"}
 }

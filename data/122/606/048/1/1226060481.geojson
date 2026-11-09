@@ -98,7 +98,7 @@
         "wk:page":"Horn%C3%A1_%C5%BDda%C5%88a"
     },
     "wof:country":"SK",
-    "wof:geomhash":"e63c50f2d58995378d6ecdd13daa4176",
+    "wof:geomhash":"81003a8d78d900d9d55d844a5446fa3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,5 +124,5 @@
     18.7501,
     48.56894000000001
 ],
-  "geometry": {"coordinates":[18.7501,48.56894000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7501,48.56894],"type":"Point"}
 }

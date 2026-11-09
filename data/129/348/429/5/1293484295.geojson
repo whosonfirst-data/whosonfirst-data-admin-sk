@@ -93,7 +93,7 @@
         "wk:page":"Sasinkovo"
     },
     "wof:country":"SK",
-    "wof:geomhash":"a9c5cde5bd6b5aa5359f96f3e2aac682",
+    "wof:geomhash":"b9a4b9db8a84e06bd0089eea933704ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     17.84933999999999,
     48.37119000000001
 ],
-  "geometry": {"coordinates":[17.84933999999999,48.37119000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.84934,48.37119],"type":"Point"}
 }

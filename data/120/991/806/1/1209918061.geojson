@@ -93,7 +93,7 @@
         "wk:page":"Sklen%C3%A9_Teplice"
     },
     "wof:country":"SK",
-    "wof:geomhash":"26b89d4b8c12f28b8364fdb71a12b093",
+    "wof:geomhash":"b15880c76244e972ab87bff5b90c113f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     18.86221,
     48.52849000000001
 ],
-  "geometry": {"coordinates":[18.86221,48.52849000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.86221,48.52849],"type":"Point"}
 }

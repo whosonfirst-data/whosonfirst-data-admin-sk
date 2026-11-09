@@ -88,7 +88,7 @@
         "wk:page":"N%C3%BDrovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"50077aac80a1a6e075699f7eb990a3c9",
+    "wof:geomhash":"f9f2f84f2a35161492d66fa0c187193b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,5 +114,5 @@
     18.58208,
     48.02509000000001
 ],
-  "geometry": {"coordinates":[18.58208,48.02509000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.58208,48.02509],"type":"Point"}
 }

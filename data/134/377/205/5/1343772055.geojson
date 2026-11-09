@@ -96,7 +96,7 @@
         "wk:page":"Pr%C3%ADkra"
     },
     "wof:country":"SK",
-    "wof:geomhash":"c27365f2d3e7dbef2280f990ca7ee468",
+    "wof:geomhash":"e03deff0fc0d07cda80635edb6a9fc6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     21.74092000000001,
     49.36228
 ],
-  "geometry": {"coordinates":[21.74092000000001,49.36228],"type":"Point"}
+  "geometry": {"coordinates":[21.74092,49.36228],"type":"Point"}
 }

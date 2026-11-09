@@ -97,7 +97,7 @@
         "wk:page":"Horn%C3%A9_H%C3%A1mre"
     },
     "wof:country":"SK",
-    "wof:geomhash":"3e8dfd7620c6cdf087be3b7a7b9849ee",
+    "wof:geomhash":"f4eb13b1557e26bcb97e57adfabe36ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,5 +123,5 @@
     18.66657,
     48.49800000000001
 ],
-  "geometry": {"coordinates":[18.66657,48.49800000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.66657,48.498],"type":"Point"}
 }

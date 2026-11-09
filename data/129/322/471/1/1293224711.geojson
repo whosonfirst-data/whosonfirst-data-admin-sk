@@ -84,7 +84,7 @@
         "wk:page":"Krtovce"
     },
     "wof:country":"SK",
-    "wof:geomhash":"19ea2606599107f342882a1d97c00dc2",
+    "wof:geomhash":"d6e1c61cdbc5ba47889ad9232ec899de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.01158999999999,
     48.54171
 ],
-  "geometry": {"coordinates":[18.01158999999999,48.54171],"type":"Point"}
+  "geometry": {"coordinates":[18.01159,48.54171],"type":"Point"}
 }

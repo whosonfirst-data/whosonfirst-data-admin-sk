@@ -84,7 +84,7 @@
         "wk:page":"Poluvsie"
     },
     "wof:country":"SK",
-    "wof:geomhash":"79deeb32e72e753d76fd37c16821a77f",
+    "wof:geomhash":"e3d361192fb902b67d2b26ff87a32300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.63952,
     48.84464000000001
 ],
-  "geometry": {"coordinates":[18.63952,48.84464000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63952,48.84464],"type":"Point"}
 }

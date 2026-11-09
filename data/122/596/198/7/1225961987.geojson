@@ -90,7 +90,7 @@
         "wk:page":"Chvalov%C3%A1"
     },
     "wof:country":"SK",
-    "wof:geomhash":"8696ea09abec49983c9d5025d2c2b5aa",
+    "wof:geomhash":"fb8a6bbaad8f003335b6767e520ec344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     20.17703,
     48.51289000000001
 ],
-  "geometry": {"coordinates":[20.17703,48.51289000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.17703,48.51289],"type":"Point"}
 }

@@ -96,7 +96,7 @@
         "wk:page":"Bodza"
     },
     "wof:country":"SK",
-    "wof:geomhash":"902544da3365c8b0928439eb3370b68c",
+    "wof:geomhash":"ffb6bd7e32c877720f29ec46eceb6fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,5 +122,5 @@
     17.82917999999999,
     47.83639
 ],
-  "geometry": {"coordinates":[17.82917999999999,47.83639],"type":"Point"}
+  "geometry": {"coordinates":[17.82918,47.83639],"type":"Point"}
 }

@@ -87,7 +87,7 @@
         "wk:page":"Repi%C5%A1te%2C_Slovakia"
     },
     "wof:country":"SK",
-    "wof:geomhash":"6f4baea4c2fa3f584c3100461ee242c6",
+    "wof:geomhash":"b6c45ba6f47940c4e29ad365cb34d231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.84653,
     48.51564000000001
 ],
-  "geometry": {"coordinates":[18.84653,48.51564000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.84653,48.51564],"type":"Point"}
 }

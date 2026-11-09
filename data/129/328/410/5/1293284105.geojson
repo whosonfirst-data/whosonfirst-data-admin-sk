@@ -90,7 +90,7 @@
         "wk:page":"Pastuchov"
     },
     "wof:country":"SK",
-    "wof:geomhash":"ea5e8f756af2b2d6f07788d76669c677",
+    "wof:geomhash":"c1191ce1bf0d2266c355b93c365c1d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     17.87812000000001,
     48.42627
 ],
-  "geometry": {"coordinates":[17.87812000000001,48.42627],"type":"Point"}
+  "geometry": {"coordinates":[17.87812,48.42627],"type":"Point"}
 }

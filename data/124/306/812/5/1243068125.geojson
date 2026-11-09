@@ -99,7 +99,7 @@
         "wk:page":"Ipe%C4%BEsk%C3%BD_Sokolec"
     },
     "wof:country":"SK",
-    "wof:geomhash":"83b90b603ad9e5756a807fc26d1ad339",
+    "wof:geomhash":"8b819e5c22ea11bcb67edc96fc1882b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,5 +125,5 @@
     18.80577000000001,
     48.01891
 ],
-  "geometry": {"coordinates":[18.80577000000001,48.01891],"type":"Point"}
+  "geometry": {"coordinates":[18.80577,48.01891],"type":"Point"}
 }
