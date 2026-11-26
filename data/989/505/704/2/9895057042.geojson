@@ -1,0 +1,74 @@
+{
+  "id": 9895057042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4844,48.01228,17.4844,48.01228",
+    "geom:latitude":48.01228,
+    "geom:longitude":17.4844,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354149: name \"\u010centovo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354149"
+        },
+        {
+            "citation":"GeoNames populated place 13354149: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354149"
+        },
+        {
+            "citation":"GeoNames populated place 13354149: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354149"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080453 (Dunajsk\u00e1 Streda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688369,
+        102080453,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354149
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"732182afb3d9a602c7558635106f2a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":9895057042,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":9895057042,
+    "wof:lastmodified":1795735144,
+    "wof:name":"\u010centovo",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4844,
+    48.01228,
+    17.4844,
+    48.01228
+],
+  "geometry": {"coordinates":[17.4844,48.01228],"type":"Point"}
+}

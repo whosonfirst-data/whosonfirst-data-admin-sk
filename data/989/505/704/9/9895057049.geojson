@@ -1,0 +1,75 @@
+{
+  "id": 9895057049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96902,48.8768,17.96902,48.8768",
+    "geom:latitude":48.8768,
+    "geom:longitude":17.96902,
+    "gn:population":683,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562497: name \"Kostoln\u00e1-Z\u00e1rie\u010die\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562497"
+        },
+        {
+            "citation":"GeoNames populated place 13562497: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562497"
+        },
+        {
+            "citation":"GeoNames populated place 13562497: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562497"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080541 (Trenc\u00edn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688339,
+        102080541,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562497
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"54a9146549c6e4d5e1aa31dc53ae9697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080541,
+            "locality_id":9895057049,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":9895057049,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Kostoln\u00e1-Z\u00e1rie\u010die",
+    "wof:parent_id":102080541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96902,
+    48.8768,
+    17.96902,
+    48.8768
+],
+  "geometry": {"coordinates":[17.96902,48.8768],"type":"Point"}
+}

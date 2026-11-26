@@ -1,0 +1,74 @@
+{
+  "id": 9895057031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86156,48.06202,18.86156,48.06202",
+    "geom:latitude":48.06202,
+    "geom:longitude":18.86156,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11906112: name \"Kisvisk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11906112"
+        },
+        {
+            "citation":"GeoNames populated place 11906112: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11906112"
+        },
+        {
+            "citation":"GeoNames populated place 11906112: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11906112"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080477 (Levice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688365,
+        102080477,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11906112
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c0945b1238374e0f6ad724e151507c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080477,
+            "locality_id":9895057031,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":9895057031,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Kisvisk",
+    "wof:parent_id":102080477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86156,
+    48.06202,
+    18.86156,
+    48.06202
+],
+  "geometry": {"coordinates":[18.86156,48.06202],"type":"Point"}
+}

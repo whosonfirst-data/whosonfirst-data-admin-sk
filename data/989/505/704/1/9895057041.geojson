@@ -1,0 +1,74 @@
+{
+  "id": 9895057041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63132,47.99249,17.63132,47.99249",
+    "geom:latitude":47.99249,
+    "geom:longitude":17.63132,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354146: name \"Felsersk\u00e1 Nov\u00e1 Ves\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354146"
+        },
+        {
+            "citation":"GeoNames populated place 13354146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354146"
+        },
+        {
+            "citation":"GeoNames populated place 13354146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354146"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080453 (Dunajsk\u00e1 Streda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688369,
+        102080453,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354146
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b384af7366c6f51759e7fe5fac4fb8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080453,
+            "locality_id":9895057041,
+            "region_id":85688369
+        }
+    ],
+    "wof:id":9895057041,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Felsersk\u00e1 Nov\u00e1 Ves",
+    "wof:parent_id":102080453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63132,
+    47.99249,
+    17.63132,
+    47.99249
+],
+  "geometry": {"coordinates":[17.63132,47.99249],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895057048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08565,48.18655,18.08565,48.18655",
+    "geom:latitude":48.18655,
+    "geom:longitude":18.08565,
+    "gn:population":367,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562351: name \"\u0160tefanovi\u010dov\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562351"
+        },
+        {
+            "citation":"GeoNames populated place 13562351: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562351"
+        },
+        {
+            "citation":"GeoNames populated place 13562351: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562351"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080473 (Nitra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688365,
+        102080473,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562351
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"f0b2db37887748e19612e1187e3f5cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080473,
+            "locality_id":9895057048,
+            "region_id":85688365
+        }
+    ],
+    "wof:id":9895057048,
+    "wof:lastmodified":1795735144,
+    "wof:name":"\u0160tefanovi\u010dov\u00e1",
+    "wof:parent_id":102080473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08565,
+    48.18655,
+    18.08565,
+    48.18655
+],
+  "geometry": {"coordinates":[18.08565,48.18655],"type":"Point"}
+}

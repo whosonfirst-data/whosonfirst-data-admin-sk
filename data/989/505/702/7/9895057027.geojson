@@ -1,0 +1,75 @@
+{
+  "id": 9895057027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1476,49.40883,21.1476,49.40883",
+    "geom:latitude":49.40883,
+    "geom:longitude":21.1476,
+    "gn:population":620,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 724935: name \"Cigelka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/724935"
+        },
+        {
+            "citation":"GeoNames populated place 724935: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/724935"
+        },
+        {
+            "citation":"GeoNames populated place 724935: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/724935"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080621 (Bardejov), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688347,
+        102080621,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724935
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7b97af23b0b9a32c5f169d86a20d26cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080621,
+            "locality_id":9895057027,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":9895057027,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Cigelka",
+    "wof:parent_id":102080621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1476,
+    49.40883,
+    21.1476,
+    49.40883
+],
+  "geometry": {"coordinates":[21.1476,49.40883],"type":"Point"}
+}

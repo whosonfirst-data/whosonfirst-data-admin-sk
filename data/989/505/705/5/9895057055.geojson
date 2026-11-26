@@ -1,0 +1,75 @@
+{
+  "id": 9895057055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97695,48.69252,21.97695,48.69252",
+    "geom:latitude":48.69252,
+    "geom:longitude":21.97695,
+    "gn:population":1043,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645448: name \"Zempl\u00ednska \u0160irok\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645448"
+        },
+        {
+            "citation":"GeoNames populated place 13645448: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645448"
+        },
+        {
+            "citation":"GeoNames populated place 13645448: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645448"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080563 (Michalovce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688359,
+        102080563,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645448
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"c3b1cccc905b4887decc8f9bf00733fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080563,
+            "locality_id":9895057055,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":9895057055,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Zempl\u00ednska \u0160irok\u00e1",
+    "wof:parent_id":102080563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97695,
+    48.69252,
+    21.97695,
+    48.69252
+],
+  "geometry": {"coordinates":[21.97695,48.69252],"type":"Point"}
+}
