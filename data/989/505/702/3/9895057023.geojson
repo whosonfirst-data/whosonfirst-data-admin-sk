@@ -1,0 +1,75 @@
+{
+  "id": 9895057023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32414,48.70752,22.32414,48.70752",
+    "geom:latitude":48.70752,
+    "geom:longitude":22.32414,
+    "gn:population":201,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 723900: name \"Petrovce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/723900"
+        },
+        {
+            "citation":"GeoNames populated place 723900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/723900"
+        },
+        {
+            "citation":"GeoNames populated place 723900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/723900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080571 (Sobrance), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688359,
+        102080571,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723900
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"7ea0458757f90645944a8da33e52c268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080571,
+            "locality_id":9895057023,
+            "region_id":85688359
+        }
+    ],
+    "wof:id":9895057023,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Petrovce",
+    "wof:parent_id":102080571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32414,
+    48.70752,
+    22.32414,
+    48.70752
+],
+  "geometry": {"coordinates":[22.32414,48.70752],"type":"Point"}
+}

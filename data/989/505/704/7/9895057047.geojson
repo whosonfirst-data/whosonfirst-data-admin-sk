@@ -1,0 +1,75 @@
+{
+  "id": 9895057047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47974,48.21385,17.47974,48.21385",
+    "geom:latitude":48.21385,
+    "geom:longitude":17.47974,
+    "gn:population":91,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526735: name \"Nov\u00fd Svet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526735"
+        },
+        {
+            "citation":"GeoNames populated place 13526735: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526735"
+        },
+        {
+            "citation":"GeoNames populated place 13526735: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526735"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080465 (Senec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688373,
+        102080465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526735
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"0c21fabeeca3c1adf70bdb1a9f07dc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":9895057047,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":9895057047,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Nov\u00fd Svet",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47974,
+    48.21385,
+    17.47974,
+    48.21385
+],
+  "geometry": {"coordinates":[17.47974,48.21385],"type":"Point"}
+}

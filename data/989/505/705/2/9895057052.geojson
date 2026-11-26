@@ -1,0 +1,75 @@
+{
+  "id": 9895057052,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08068,48.79405,19.08068,48.79405",
+    "geom:latitude":48.79405,
+    "geom:longitude":19.08068,
+    "gn:population":839,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589058: name \"Harmanec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589058"
+        },
+        {
+            "citation":"GeoNames populated place 13589058: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589058"
+        },
+        {
+            "citation":"GeoNames populated place 13589058: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589058"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080531 (Bansk\u00e1 Bystrica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688355,
+        102080531,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589058
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"67ac8f6526586ed09b5c86d04f5937e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":9895057052,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":9895057052,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Harmanec",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08068,
+    48.79405,
+    19.08068,
+    48.79405
+],
+  "geometry": {"coordinates":[19.08068,48.79405],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85117,49.3388,20.85117,49.3388",
+    "geom:latitude":49.3388,
+    "geom:longitude":20.85117,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 724308: name \"Legnava\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/724308"
+        },
+        {
+            "citation":"GeoNames populated place 724308: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/724308"
+        },
+        {
+            "citation":"GeoNames populated place 724308: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/724308"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080611 (Star\u00e1 Lubovna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688347,
+        102080611,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":724308
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"2abb8f7f38e0602ab848a221051742a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080611,
+            "locality_id":9895057025,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":9895057025,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Legnava",
+    "wof:parent_id":102080611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85117,
+    49.3388,
+    20.85117,
+    49.3388
+],
+  "geometry": {"coordinates":[20.85117,49.3388],"type":"Point"}
+}

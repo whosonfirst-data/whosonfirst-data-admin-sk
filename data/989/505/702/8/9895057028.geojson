@@ -1,0 +1,74 @@
+{
+  "id": 9895057028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19346,48.14221,19.19346,48.14221",
+    "geom:latitude":48.14221,
+    "geom:longitude":19.19346,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3059576: name \"Kamenn\u00e9 Kosihy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3059576"
+        },
+        {
+            "citation":"GeoNames populated place 3059576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3059576"
+        },
+        {
+            "citation":"GeoNames populated place 3059576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3059576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080479 (Velk\u00fd Krt\u00ed\u0161), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688355,
+        102080479,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3059576
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"a447f0f43fdc47b488ea5336fc991684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080479,
+            "locality_id":9895057028,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":9895057028,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Kamenn\u00e9 Kosihy",
+    "wof:parent_id":102080479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19346,
+    48.14221,
+    19.19346,
+    48.14221
+],
+  "geometry": {"coordinates":[19.19346,48.14221],"type":"Point"}
+}

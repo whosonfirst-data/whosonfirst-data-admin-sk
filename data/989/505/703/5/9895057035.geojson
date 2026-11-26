@@ -1,0 +1,74 @@
+{
+  "id": 9895057035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25052,48.18463,17.25052,48.18463",
+    "geom:latitude":48.18463,
+    "geom:longitude":17.25052,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353259: name \"Farn\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353259"
+        },
+        {
+            "citation":"GeoNames populated place 13353259: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353259"
+        },
+        {
+            "citation":"GeoNames populated place 13353259: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353259"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080465 (Senec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688373,
+        102080465,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353259
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"b9c8faa006edcf0056d0a56419975a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080465,
+            "locality_id":9895057035,
+            "region_id":85688373
+        }
+    ],
+    "wof:id":9895057035,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Farn\u00e1",
+    "wof:parent_id":102080465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25052,
+    48.18463,
+    17.25052,
+    48.18463
+],
+  "geometry": {"coordinates":[17.25052,48.18463],"type":"Point"}
+}

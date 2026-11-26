@@ -1,0 +1,75 @@
+{
+  "id": 9895057054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23973,48.63703,19.23973,48.63703",
+    "geom:latitude":48.63703,
+    "geom:longitude":19.23973,
+    "gn:population":361,
+    "iso:country":"SK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589060: name \"Sebed\u00edn-Be\u010dov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589060"
+        },
+        {
+            "citation":"GeoNames populated place 13589060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589060"
+        },
+        {
+            "citation":"GeoNames populated place 13589060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589060"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080531 (Bansk\u00e1 Bystrica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633769,
+        85688355,
+        102080531,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589060
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"3f71c36ec34220734c72d7770af19e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080531,
+            "locality_id":9895057054,
+            "region_id":85688355
+        }
+    ],
+    "wof:id":9895057054,
+    "wof:lastmodified":1795735144,
+    "wof:name":"Sebed\u00edn-Be\u010dov",
+    "wof:parent_id":102080531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23973,
+    48.63703,
+    19.23973,
+    48.63703
+],
+  "geometry": {"coordinates":[19.23973,48.63703],"type":"Point"}
+}
